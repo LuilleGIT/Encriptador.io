@@ -1,0 +1,44 @@
+body{
+    background-color: #E5E5E5;
+
+}
+main {
+    display :flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.input-texto{
+    margin-top: 90px;
+    font-size: large;
+}
+
+.mensaje {
+    position: relative;
+    margin-top: 40px;
+    margin-left: 90px;
+    background-image: url(Imagenes/Muñeco.png);
+    background-repeat: no-repeat;
+    background-position: 18px;
+    background-size: 300px;
+}
+
+.copiar {
+    position: relative;
+    font-size: x-large;
+}
+
+.encriptar{
+    background-color: darkred;
+    color:white;
+    font-size: larger;
+}
+
+.desencriptar{
+    margin-left: 30px;
+    font-size: larger;
+}
+
+.informacion{
+    font-size: 15px;
+}
